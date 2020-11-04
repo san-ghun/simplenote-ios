@@ -462,6 +462,55 @@
 		3FA60139242C5AAD0068FC52 /* SimplenoteScreenshots.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SimplenoteScreenshots.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FA6013B242C5AAE0068FC52 /* SimplenoteScreenshots.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimplenoteScreenshots.swift; sourceTree = "<group>"; };
 		3FA6013D242C5AAE0068FC52 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3FAA54AD2552573F001534D4 /* ScreenshotsSecrets-Distribution-Alpha.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "ScreenshotsSecrets-Distribution-Alpha.xcconfig"; sourceTree = "<group>"; };
+		3FAA54AE2552573F001534D4 /* Project-Distribution-AdHoc.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "Project-Distribution-AdHoc.xcconfig"; sourceTree = "<group>"; };
+		3FAA54AF2552573F001534D4 /* Simplenote-Debug.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "Simplenote-Debug.xcconfig"; sourceTree = "<group>"; };
+		3FAA54B02552573F001534D4 /* SimplenoteSecrets-Distribution-Internal.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "SimplenoteSecrets-Distribution-Internal.xcconfig"; sourceTree = "<group>"; };
+		3FAA54B12552573F001534D4 /* Simplenote-Distribution-Internal.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "Simplenote-Distribution-Internal.xcconfig"; sourceTree = "<group>"; };
+		3FAA54B22552573F001534D4 /* SimplenoteSecrets-Distribution-Alpha.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "SimplenoteSecrets-Distribution-Alpha.xcconfig"; sourceTree = "<group>"; };
+		3FAA54B32552573F001534D4 /* SimplenoteSecrets-Debug.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "SimplenoteSecrets-Debug.xcconfig"; sourceTree = "<group>"; };
+		3FAA54B42552573F001534D4 /* SimplenoteShare-Distribution-Internal.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "SimplenoteShare-Distribution-Internal.xcconfig"; sourceTree = "<group>"; };
+		3FAA54B52552573F001534D4 /* SimplenoteShare-Distribution-AdHoc.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "SimplenoteShare-Distribution-AdHoc.xcconfig"; sourceTree = "<group>"; };
+		3FAA54B62552573F001534D4 /* Project-Distribution-AppStore.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "Project-Distribution-AppStore.xcconfig"; sourceTree = "<group>"; };
+		3FAA54B72552573F001534D4 /* SimplenoteTests-Distribution-Alpha.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "SimplenoteTests-Distribution-Alpha.xcconfig"; sourceTree = "<group>"; };
+		3FAA54B82552573F001534D4 /* ScreenshotsSecrets-Distribution-Internal.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "ScreenshotsSecrets-Distribution-Internal.xcconfig"; sourceTree = "<group>"; };
+		3FAA54B92552573F001534D4 /* SimplenoteShare-Shared.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "SimplenoteShare-Shared.xcconfig"; sourceTree = "<group>"; };
+		3FAA54BA2552573F001534D4 /* SimplenoteScreenshots-Release.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "SimplenoteScreenshots-Release.xcconfig"; sourceTree = "<group>"; };
+		3FAA54BB2552573F001534D4 /* SimplenoteShare-Release.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "SimplenoteShare-Release.xcconfig"; sourceTree = "<group>"; };
+		3FAA54BC2552573F001534D4 /* SimplenoteScreenshots-Distribution-AdHoc.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "SimplenoteScreenshots-Distribution-AdHoc.xcconfig"; sourceTree = "<group>"; };
+		3FAA54BD2552573F001534D4 /* ScreenshotsSecrets-Shared.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "ScreenshotsSecrets-Shared.xcconfig"; sourceTree = "<group>"; };
+		3FAA54BE2552573F001534D4 /* SimplenoteTests-Release.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "SimplenoteTests-Release.xcconfig"; sourceTree = "<group>"; };
+		3FAA54BF2552573F001534D4 /* SimplenoteShare-Distribution-AppStore.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "SimplenoteShare-Distribution-AppStore.xcconfig"; sourceTree = "<group>"; };
+		3FAA54C02552573F001534D4 /* Project-Release.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "Project-Release.xcconfig"; sourceTree = "<group>"; };
+		3FAA54C12552573F001534D4 /* ScreenshotsSecrets-Debug.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "ScreenshotsSecrets-Debug.xcconfig"; sourceTree = "<group>"; };
+		3FAA54C22552573F001534D4 /* Simplenote-Distribution-AppStore.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "Simplenote-Distribution-AppStore.xcconfig"; sourceTree = "<group>"; };
+		3FAA54C32552573F001534D4 /* ScreenshotsSecrets-Distribution-AppStore.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "ScreenshotsSecrets-Distribution-AppStore.xcconfig"; sourceTree = "<group>"; };
+		3FAA54C42552573F001534D4 /* Project-Distribution-Internal.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "Project-Distribution-Internal.xcconfig"; sourceTree = "<group>"; };
+		3FAA54C52552573F001534D4 /* SimplenoteSecrets-Distribution-AppStore.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "SimplenoteSecrets-Distribution-AppStore.xcconfig"; sourceTree = "<group>"; };
+		3FAA54C62552573F001534D4 /* Project-Shared.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "Project-Shared.xcconfig"; sourceTree = "<group>"; };
+		3FAA54C72552573F001534D4 /* Simplenote-Distribution-Alpha.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "Simplenote-Distribution-Alpha.xcconfig"; sourceTree = "<group>"; };
+		3FAA54C82552573F001534D4 /* SimplenoteTests-Distribution-Internal.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "SimplenoteTests-Distribution-Internal.xcconfig"; sourceTree = "<group>"; };
+		3FAA54C92552573F001534D4 /* SimplenoteScreenshots-Distribution-AppStore.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "SimplenoteScreenshots-Distribution-AppStore.xcconfig"; sourceTree = "<group>"; };
+		3FAA54CA2552573F001534D4 /* SimplenoteSecrets-Distribution-AdHoc.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "SimplenoteSecrets-Distribution-AdHoc.xcconfig"; sourceTree = "<group>"; };
+		3FAA54CB2552573F001534D4 /* SimplenoteShare-Distribution-Alpha.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "SimplenoteShare-Distribution-Alpha.xcconfig"; sourceTree = "<group>"; };
+		3FAA54CC2552573F001534D4 /* SimplenoteTests-Distribution-AdHoc.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "SimplenoteTests-Distribution-AdHoc.xcconfig"; sourceTree = "<group>"; };
+		3FAA54CD2552573F001534D4 /* SimplenoteSecrets-Release.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "SimplenoteSecrets-Release.xcconfig"; sourceTree = "<group>"; };
+		3FAA54CE2552573F001534D4 /* SimplenoteShare-Debug.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "SimplenoteShare-Debug.xcconfig"; sourceTree = "<group>"; };
+		3FAA54CF2552573F001534D4 /* ScreenshotsSecrets-Release.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "ScreenshotsSecrets-Release.xcconfig"; sourceTree = "<group>"; };
+		3FAA54D02552573F001534D4 /* SimplenoteScreenshots-Distribution-Alpha.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "SimplenoteScreenshots-Distribution-Alpha.xcconfig"; sourceTree = "<group>"; };
+		3FAA54D12552573F001534D4 /* ScreenshotsSecrets-Distribution-AdHoc.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "ScreenshotsSecrets-Distribution-AdHoc.xcconfig"; sourceTree = "<group>"; };
+		3FAA54D22552573F001534D4 /* Simplenote-Shared.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "Simplenote-Shared.xcconfig"; sourceTree = "<group>"; };
+		3FAA54D32552573F001534D4 /* Project-Distribution-Alpha.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "Project-Distribution-Alpha.xcconfig"; sourceTree = "<group>"; };
+		3FAA54D42552573F001534D4 /* SimplenoteScreenshots-Shared.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "SimplenoteScreenshots-Shared.xcconfig"; sourceTree = "<group>"; };
+		3FAA54D52552573F001534D4 /* SimplenoteSecrets-Shared.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "SimplenoteSecrets-Shared.xcconfig"; sourceTree = "<group>"; };
+		3FAA54D62552573F001534D4 /* SimplenoteTests-Debug.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "SimplenoteTests-Debug.xcconfig"; sourceTree = "<group>"; };
+		3FAA54D72552573F001534D4 /* Simplenote-Release.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "Simplenote-Release.xcconfig"; sourceTree = "<group>"; };
+		3FAA54D82552573F001534D4 /* SimplenoteScreenshots-Debug.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "SimplenoteScreenshots-Debug.xcconfig"; sourceTree = "<group>"; };
+		3FAA54D92552573F001534D4 /* Simplenote-Distribution-AdHoc.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "Simplenote-Distribution-AdHoc.xcconfig"; sourceTree = "<group>"; };
+		3FAA54DA2552573F001534D4 /* SimplenoteTests-Shared.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "SimplenoteTests-Shared.xcconfig"; sourceTree = "<group>"; };
+		3FAA54DB2552573F001534D4 /* Project-Debug.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "Project-Debug.xcconfig"; sourceTree = "<group>"; };
+		3FAA54DC2552573F001534D4 /* SimplenoteScreenshots-Distribution-Internal.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "SimplenoteScreenshots-Distribution-Internal.xcconfig"; sourceTree = "<group>"; };
+		3FAA54DD2552573F001534D4 /* SimplenoteTests-Distribution-AppStore.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "SimplenoteTests-Distribution-AppStore.xcconfig"; sourceTree = "<group>"; };
 		467D9C5D1788A4FB00785EF3 /* Simplenote 2.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = "Simplenote 2.xcdatamodel"; sourceTree = "<group>"; };
 		467D9C5E1788A4FB00785EF3 /* Simplenote.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Simplenote.xcdatamodel; sourceTree = "<group>"; };
 		467D9C611788A54900785EF3 /* Note.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Note.h; path = Classes/Note.h; sourceTree = "<group>"; };
@@ -954,6 +1003,62 @@
 			path = SimplenoteScreenshots;
 			sourceTree = "<group>";
 		};
+		3FAA54AC2552573F001534D4 /* xcconfig */ = {
+			isa = PBXGroup;
+			children = (
+				3FAA54AD2552573F001534D4 /* ScreenshotsSecrets-Distribution-Alpha.xcconfig */,
+				3FAA54AE2552573F001534D4 /* Project-Distribution-AdHoc.xcconfig */,
+				3FAA54AF2552573F001534D4 /* Simplenote-Debug.xcconfig */,
+				3FAA54B02552573F001534D4 /* SimplenoteSecrets-Distribution-Internal.xcconfig */,
+				3FAA54B12552573F001534D4 /* Simplenote-Distribution-Internal.xcconfig */,
+				3FAA54B22552573F001534D4 /* SimplenoteSecrets-Distribution-Alpha.xcconfig */,
+				3FAA54B32552573F001534D4 /* SimplenoteSecrets-Debug.xcconfig */,
+				3FAA54B42552573F001534D4 /* SimplenoteShare-Distribution-Internal.xcconfig */,
+				3FAA54B52552573F001534D4 /* SimplenoteShare-Distribution-AdHoc.xcconfig */,
+				3FAA54B62552573F001534D4 /* Project-Distribution-AppStore.xcconfig */,
+				3FAA54B72552573F001534D4 /* SimplenoteTests-Distribution-Alpha.xcconfig */,
+				3FAA54B82552573F001534D4 /* ScreenshotsSecrets-Distribution-Internal.xcconfig */,
+				3FAA54B92552573F001534D4 /* SimplenoteShare-Shared.xcconfig */,
+				3FAA54BA2552573F001534D4 /* SimplenoteScreenshots-Release.xcconfig */,
+				3FAA54BB2552573F001534D4 /* SimplenoteShare-Release.xcconfig */,
+				3FAA54BC2552573F001534D4 /* SimplenoteScreenshots-Distribution-AdHoc.xcconfig */,
+				3FAA54BD2552573F001534D4 /* ScreenshotsSecrets-Shared.xcconfig */,
+				3FAA54BE2552573F001534D4 /* SimplenoteTests-Release.xcconfig */,
+				3FAA54BF2552573F001534D4 /* SimplenoteShare-Distribution-AppStore.xcconfig */,
+				3FAA54C02552573F001534D4 /* Project-Release.xcconfig */,
+				3FAA54C12552573F001534D4 /* ScreenshotsSecrets-Debug.xcconfig */,
+				3FAA54C22552573F001534D4 /* Simplenote-Distribution-AppStore.xcconfig */,
+				3FAA54C32552573F001534D4 /* ScreenshotsSecrets-Distribution-AppStore.xcconfig */,
+				3FAA54C42552573F001534D4 /* Project-Distribution-Internal.xcconfig */,
+				3FAA54C52552573F001534D4 /* SimplenoteSecrets-Distribution-AppStore.xcconfig */,
+				3FAA54C62552573F001534D4 /* Project-Shared.xcconfig */,
+				3FAA54C72552573F001534D4 /* Simplenote-Distribution-Alpha.xcconfig */,
+				3FAA54C82552573F001534D4 /* SimplenoteTests-Distribution-Internal.xcconfig */,
+				3FAA54C92552573F001534D4 /* SimplenoteScreenshots-Distribution-AppStore.xcconfig */,
+				3FAA54CA2552573F001534D4 /* SimplenoteSecrets-Distribution-AdHoc.xcconfig */,
+				3FAA54CB2552573F001534D4 /* SimplenoteShare-Distribution-Alpha.xcconfig */,
+				3FAA54CC2552573F001534D4 /* SimplenoteTests-Distribution-AdHoc.xcconfig */,
+				3FAA54CD2552573F001534D4 /* SimplenoteSecrets-Release.xcconfig */,
+				3FAA54CE2552573F001534D4 /* SimplenoteShare-Debug.xcconfig */,
+				3FAA54CF2552573F001534D4 /* ScreenshotsSecrets-Release.xcconfig */,
+				3FAA54D02552573F001534D4 /* SimplenoteScreenshots-Distribution-Alpha.xcconfig */,
+				3FAA54D12552573F001534D4 /* ScreenshotsSecrets-Distribution-AdHoc.xcconfig */,
+				3FAA54D22552573F001534D4 /* Simplenote-Shared.xcconfig */,
+				3FAA54D32552573F001534D4 /* Project-Distribution-Alpha.xcconfig */,
+				3FAA54D42552573F001534D4 /* SimplenoteScreenshots-Shared.xcconfig */,
+				3FAA54D52552573F001534D4 /* SimplenoteSecrets-Shared.xcconfig */,
+				3FAA54D62552573F001534D4 /* SimplenoteTests-Debug.xcconfig */,
+				3FAA54D72552573F001534D4 /* Simplenote-Release.xcconfig */,
+				3FAA54D82552573F001534D4 /* SimplenoteScreenshots-Debug.xcconfig */,
+				3FAA54D92552573F001534D4 /* Simplenote-Distribution-AdHoc.xcconfig */,
+				3FAA54DA2552573F001534D4 /* SimplenoteTests-Shared.xcconfig */,
+				3FAA54DB2552573F001534D4 /* Project-Debug.xcconfig */,
+				3FAA54DC2552573F001534D4 /* SimplenoteScreenshots-Distribution-Internal.xcconfig */,
+				3FAA54DD2552573F001534D4 /* SimplenoteTests-Distribution-AppStore.xcconfig */,
+			);
+			path = xcconfig;
+			sourceTree = "<group>";
+		};
 		467D9C601788A53700785EF3 /* Models */ = {
 			isa = PBXGroup;
 			children = (
@@ -1058,6 +1163,7 @@
 		8C573B0C22CD1A78005BC6F5 /* config */ = {
 			isa = PBXGroup;
 			children = (
+				3FAA54AC2552573F001534D4 /* xcconfig */,
 				8C573B0D22CD1AD6005BC6F5 /* Version.Public.xcconfig */,
 				8C573B0A22CD1A61005BC6F5 /* Simplenote.debug.xcconfig */,
 				8C573B0B22CD1A6F005BC6F5 /* Simplenote.release.xcconfig */,
