@@ -35,3 +35,5 @@ GCC_PREPROCESSOR_DEFINITIONS = $(inherited) SDK_VERSION_IOS13=$(SDK_VERSION_IOS1
 // If enabled, perform validation checks on the product as part of the build process.
 
 VALIDATE_PRODUCT = YES
+
+#include "../../Pods/Target Support Files/Pods-Automattic-Simplenote/Pods-Automattic-Simplenote.distribution appstore.xcconfig"

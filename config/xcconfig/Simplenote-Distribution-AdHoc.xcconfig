@@ -71,3 +71,5 @@ PROVISIONING_PROFILE_SPECIFIER = Simplenote AdHoc
 // A list of compilation conditions to enable for conditional compilation expressions.
 
 SWIFT_ACTIVE_COMPILATION_CONDITIONS = BUILD_AD_HOC $(SP_IOS_SDK)
+
+#include "../../Pods/Target Support Files/Pods-Automattic-Simplenote/Pods-Automattic-Simplenote.distribution adhoc.xcconfig"
