@@ -2114,7 +2114,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "xcrun -sdk macosx swift ${PROJECT_DIR}/Scripts/VerifyNoBuildSettings.swift  --xcode  ${PROJECT_DIR}/${PROJECT_NAME}.xcodeproj/project.pbxproj\n";
+			shellScript = "# xcrun -sdk macosx swift ${PROJECT_DIR}/Scripts/VerifyNoBuildSettings.swift  --xcode  ${PROJECT_DIR}/${PROJECT_NAME}.xcodeproj/project.pbxproj\n";
 		};
 		730A1CB888B6254066EA8CAA /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
