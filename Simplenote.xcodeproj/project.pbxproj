@@ -2955,7 +2955,7 @@
 		};
 		46A3C9D517DFA81A002865AE /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = DF3BADF5A954AA00BCF9B169 /* Pods-Automattic-Simplenote.debug.xcconfig */;
+			baseConfigurationReference = 3FAA54AF2552573F001534D4 /* Simplenote-Debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = "$(inherited)";
 				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-Beta";
@@ -3978,7 +3978,7 @@
 		};
 		E29ADD6217848E8500E55842 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8C573B0A22CD1A61005BC6F5 /* Simplenote.debug.xcconfig */;
+			baseConfigurationReference = 3FAA54DB2552573F001534D4 /* Project-Debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = "$(inherited)";
 				ALWAYS_SEARCH_USER_PATHS = NO;
