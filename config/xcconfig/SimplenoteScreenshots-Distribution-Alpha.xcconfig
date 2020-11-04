@@ -8,7 +8,7 @@
 #include "SimplenoteScreenshots-Shared.xcconfig"
 
 // Strip Debug Symbols During Copy
-// 
+//
 // Specifies whether binary files that are copied during the build, such as in a Copy
 // Bundle Resources or Copy Files build phase, should be stripped of debugging symbols.
 // It does not cause the linked product of a target to be stripped—use
@@ -17,9 +17,9 @@
 COPY_PHASE_STRIP = NO
 
 // Debug Information Format
-// 
+//
 // The type of debug information to produce.
-// 
+//
 // * DWARF: Object files and linked products will use DWARF as the debug information
 // format. [dwarf]
 // * DWARF with dSYM File: Object files and linked products will use DWARF as the debug
